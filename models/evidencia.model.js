@@ -5,8 +5,8 @@ const EvidenciaSchema = mongoose.Schema({
     dataColeta: { type: Date, required: true },
     status: { type: String, required: true, enum: ['Em análise', 'Concluído'], default: 'Em análise' },
     coletadaPor: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
-    urlEvidencia: { type: String, require: true },
-    laudo: { type: mongoose.Schema.Types.ObjectId, ref: 'Laudo', required: false },
+    urlEvidencia: { type: [String], require: true },
+    caso: { type: mongoose.Schema.Types.ObjectId, ref: 'Caso', required: false },
 }, { timestamps: true });
 
 const Evidencia = mongoose.model('Evidencia', EvidenciaSchema);
