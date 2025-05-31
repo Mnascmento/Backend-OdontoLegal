@@ -10,8 +10,10 @@ const CasoSchema = mongoose.Schema({
     relatorios: [{type: mongoose.Schema.Types.ObjectId, ref: 'Relatorio', required: false}],
     vitimas: [{type: mongoose.Schema.Types.ObjectId, ref: 'Vitima', required: true}],
     classificacao: { type: String, required: true,
-    enum: ['Acidente', 'Identificação de Vítima', 'Exame Criminal', 'Outro']
-}}, { timestamps: true });
+    enum: ['Acidente', 'Identificação de Vítima', 'Exame Criminal', 'Outro']},
+    responsavel: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: tr },
+
+}, { timestamps: true });
 
 const Caso = mongoose.model('Caso', CasoSchema);
 

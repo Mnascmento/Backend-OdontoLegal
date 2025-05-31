@@ -243,3 +243,31 @@ export const removeVitimaFromCaso = async (req, res) => {
         res.status(500).json({ error: 'Erro ao remover vitima do caso' });
     }
 };
+
+//filter cases based on status, responsible user, and date range
+export const filtrarCasos = async (req, res) => {
+  try {
+    const { status, responsavelId, inicio, fim } = req.query;
+
+    const filtro = {};
+
+    if (status) filtro.status = status;
+    if (responsavelId) filtro.responsavel = responsavelId;
+
+    if (inicio || fim) {
+      filtro.dataAbertura = {};
+      if (inicio) filtro.dataAbertura.$gte = new Date(inicio);
+      if (fim) filtro.dataAbertura.$lte = new Date(fim);
+    }
+
+    const casos = await Caso.find(filtro)
+      .populate('responsavel', 'username email') // popula apenas usuario e email do usuário
+      .populate('evidencias')
+      .populate('relatorios')
+      .populate('vitimas');
+
+    res.status(200).json(casos);
+  } catch (erro) {
+    res.status(500).json({ mensagem: "Erro ao buscar casos", erro });
+  }
+};
