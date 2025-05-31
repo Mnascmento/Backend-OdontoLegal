@@ -14,6 +14,7 @@ import { authMiddleware } from "../middlewares/auth.middleware.js";
 
 const router = express.Router();
 
+router.get("/filtro", filtrarCasos);
 /**
  * @swagger
  * /casos:
