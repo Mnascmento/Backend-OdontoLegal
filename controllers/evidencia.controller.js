@@ -1,4 +1,8 @@
 import Evidencia from "../models/evidencia.model.js";
+import User from "../models/user.model.js";
+import ImagemEvidencia from "../models/imagem.evidencia.model.js";
+import TextoEvidencia from "../models/texto.evidencia.model.js";
+import Laudo from "../models/laudo.model.js";
 
 export const createEvidencia = async (req, res) => {
     const { tipo, dataColeta, status, coletadaPor, latitude, longitude } = req.body;
@@ -19,6 +23,13 @@ export const createEvidencia = async (req, res) => {
         });
 
         const savedEvidencia = await newEvidencia.save();
+
+        // Update the user with the new caso ID
+        await User.findByIdAndUpdate(
+            coletadaPor,
+            { $addToSet: { evidencias: savedEvidencia._id } }, // Add caso ID to user's casos array if not already present
+            { new: true }
+        );
 
         res.status(201).json({ message: "Evidência criada com sucesso!", evidencia: savedEvidencia });
     } catch (error) {
@@ -79,14 +90,38 @@ export const updateEvidencia = async (req, res) => {
 };
 
 export const deleteEvidencia = async (req, res) => {
-    const { id } = req.params;
+    const { userId } = req.body;
 
     try {
-        const deletedEvidencia = await Evidencia.findByIdAndDelete(id);
+
+        // Remove all relations from evidencia
+        const evidenciaRelations = await Evidencia.findById(req.params.id).populate('imagens textos laudo');
+
+        if (evidenciaRelations.imagens?.length) {
+            const imagemIds = evidenciaRelations.imagens.map(i => i._id);
+            await ImagemEvidencia.deleteMany({ _id: { $in: imagemIds } });
+        }
+
+        if (evidenciaRelations.textos?.length) {
+            const textoIds = evidenciaRelations.textos.map(t => t._id);
+            await TextoEvidencia.deleteMany({ _id: { $in: textoIds } });
+        }
+
+        if (evidenciaRelations.laudo) {
+            await Laudo.findByIdAndDelete(evidenciaRelations.laudo._id);
+        }
+
+        const deletedEvidencia = await Evidencia.findByIdAndDelete(req.params.id);
 
         if (!deletedEvidencia) {
             return res.status(404).json({ error: "Evidência não encontrada" });
         }
+
+        await User.findByIdAndUpdate(
+            userId,
+            { $pull: { evidencias: deleteEvidencia._id } },
+            { new: true }
+        );
 
         res.status(200).json({ message: "Evidência deletada com sucesso!" });
     } catch (error) {
