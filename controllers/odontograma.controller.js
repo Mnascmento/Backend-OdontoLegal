@@ -31,7 +31,6 @@ export const getOdontogramaById = async (req, res) => {
     }
 };
 
-//Update por dente
 export const updateOdontograma = async (req, res) => {
     const { id } = req.params;
     const { identificacao, observacao } = req.body;
