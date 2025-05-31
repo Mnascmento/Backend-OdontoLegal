@@ -9,7 +9,9 @@ const CasoSchema = mongoose.Schema({
     evidencias: [{type: mongoose.Schema.Types.ObjectId, ref: 'Evidencia', required: false}],
     relatorios: [{type: mongoose.Schema.Types.ObjectId, ref: 'Relatorio', required: false}],
     vitimas: [{type: mongoose.Schema.Types.ObjectId, ref: 'Vitima', required: true}],
-}, { timestamps: true });
+    classificacao: { type: String, required: true,
+    enum: ['Acidente', 'Identificação de Vítima', 'Exame Criminal', 'Outro']
+}}, { timestamps: true });
 
 const Caso = mongoose.model('Caso', CasoSchema);
 
