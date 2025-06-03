@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 const VitimaSchema = mongoose.Schema({
-    nic: { type: String, required: false },
+    nic: { type: String, required: true, unique: true },
     nome: { type: String, required: false },
     genero: { type: String, required: false },
     idade: { type: Number, required: false },

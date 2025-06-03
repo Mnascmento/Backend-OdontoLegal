@@ -1,0 +1,801 @@
+[{
+    "nic": "738-14-5737",
+    "nome": "Darrick Gowrich",
+    "genero": "F",
+    "idade": 36,
+    "documento": null,
+    "endereco": "63 Prairieview Circle",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "474-46-1830",
+    "nome": "Alyson Etoile",
+    "genero": "F",
+    "idade": 45,
+    "documento": "576-27-1443",
+    "endereco": "56160 Prairieview Parkway",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "745-84-3456",
+    "nome": "Estell Kohneke",
+    "genero": "F",
+    "idade": null,
+    "documento": "257-09-3294",
+    "endereco": "16 Florence Way",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "417-07-8445",
+    "nome": null,
+    "genero": "M",
+    "idade": 80,
+    "documento": "434-05-7652",
+    "endereco": "20650 John Wall Lane",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "436-31-0926",
+    "nome": "Rutger Overill",
+    "genero": "F",
+    "idade": null,
+    "documento": "178-32-6148",
+    "endereco": "526 Kim Drive",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "182-67-3315",
+    "nome": "Karoly Vickarman",
+    "genero": "M",
+    "idade": 22,
+    "documento": "190-18-7345",
+    "endereco": "67760 Sachs Pass",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "894-99-2473",
+    "nome": "Nat Froud",
+    "genero": "F",
+    "idade": 4,
+    "documento": "491-97-2793",
+    "endereco": "1 Hanover Terrace",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "309-67-1402",
+    "nome": "Duncan Danilovitch",
+    "genero": "M",
+    "idade": 56,
+    "documento": "505-24-9873",
+    "endereco": "51 Di Loreto Way",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "600-14-3550",
+    "nome": "Staffard Grainger",
+    "genero": "F",
+    "idade": 22,
+    "documento": "827-55-3226",
+    "endereco": null,
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "461-55-1256",
+    "nome": "Jade Merrgen",
+    "genero": "F",
+    "idade": 2,
+    "documento": "109-44-9240",
+    "endereco": "5504 Dunning Place",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "768-17-0010",
+    "nome": "Benito Findlow",
+    "genero": "M",
+    "idade": 54,
+    "documento": null,
+    "endereco": null,
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "133-83-5667",
+    "nome": "Lindsy Tambling",
+    "genero": "M",
+    "idade": 69,
+    "documento": "885-38-9354",
+    "endereco": "7017 Dwight Trail",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "722-69-6569",
+    "nome": "Porter Drife",
+    "genero": "M",
+    "idade": 74,
+    "documento": "695-30-1425",
+    "endereco": "4 Packers Circle",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "318-37-5555",
+    "nome": "Jinny Greenway",
+    "genero": "F",
+    "idade": 69,
+    "documento": "202-24-4396",
+    "endereco": "5 Park Meadow Trail",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "102-93-7290",
+    "nome": "Othello Pitson",
+    "genero": "F",
+    "idade": null,
+    "documento": null,
+    "endereco": "02 Calypso Circle",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "876-18-4945",
+    "nome": "Fielding Alyutin",
+    "genero": "M",
+    "idade": 82,
+    "documento": "677-15-1281",
+    "endereco": "15293 Washington Junction",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "349-25-2772",
+    "nome": "Julian Bompass",
+    "genero": "M",
+    "idade": null,
+    "documento": "777-30-1471",
+    "endereco": null,
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "678-96-7103",
+    "nome": "Connie Tante",
+    "genero": "M",
+    "idade": null,
+    "documento": "201-56-4922",
+    "endereco": "06637 Westridge Trail",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "778-32-7561",
+    "nome": "Enrika Nanelli",
+    "genero": "M",
+    "idade": 80,
+    "documento": "624-27-7094",
+    "endereco": "82070 Fairfield Hill",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "602-75-6405",
+    "nome": "Christophorus McGorman",
+    "genero": "M",
+    "idade": 44,
+    "documento": "404-41-8181",
+    "endereco": "337 South Alley",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "341-14-0253",
+    "nome": "Nadiya Wais",
+    "genero": "F",
+    "idade": 52,
+    "documento": "862-90-4019",
+    "endereco": "323 Rusk Trail",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "138-80-0517",
+    "nome": null,
+    "genero": "M",
+    "idade": 73,
+    "documento": null,
+    "endereco": "6161 Dapin Lane",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "434-03-7965",
+    "nome": null,
+    "genero": "F",
+    "idade": 39,
+    "documento": "439-13-7286",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "800-54-9164",
+    "nome": "Kevin Scawen",
+    "genero": "F",
+    "idade": 56,
+    "documento": "693-07-3105",
+    "endereco": "8 Holy Cross Point",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "664-76-6094",
+    "nome": "Rik Dinjes",
+    "genero": "F",
+    "idade": 66,
+    "documento": "678-19-4382",
+    "endereco": "1 Sunbrook Road",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "517-96-8523",
+    "nome": "Korney Gradley",
+    "genero": "F",
+    "idade": 2,
+    "documento": "323-24-0696",
+    "endereco": "258 Nova Street",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "191-65-6734",
+    "nome": "Addy Cristofolo",
+    "genero": "F",
+    "idade": 72,
+    "documento": "690-50-7961",
+    "endereco": "89531 Bay Way",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "355-70-9491",
+    "nome": "Tod Ruggier",
+    "genero": "F",
+    "idade": 59,
+    "documento": "756-87-7085",
+    "endereco": "6088 Hollow Ridge Terrace",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "160-19-6413",
+    "nome": "Brandise Tann",
+    "genero": "M",
+    "idade": 15,
+    "documento": "147-56-9223",
+    "endereco": null,
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "516-39-9704",
+    "nome": "Dion Cordingly",
+    "genero": "F",
+    "idade": 7,
+    "documento": "269-51-0896",
+    "endereco": "9 Garrison Trail",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "890-46-2066",
+    "nome": "Glenda Carne",
+    "genero": "M",
+    "idade": 82,
+    "documento": "217-88-4039",
+    "endereco": null,
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "772-19-9875",
+    "nome": "Gertie Coneybeer",
+    "genero": "M",
+    "idade": 69,
+    "documento": null,
+    "endereco": "4 Kensington Park",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "202-84-9655",
+    "nome": "Sebastian Del Dello",
+    "genero": "F",
+    "idade": 58,
+    "documento": null,
+    "endereco": "640 Tennyson Park",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "886-55-7179",
+    "nome": "Chevalier Dufer",
+    "genero": "M",
+    "idade": 75,
+    "documento": "546-57-9578",
+    "endereco": "43 Petterle Plaza",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "224-36-3762",
+    "nome": null,
+    "genero": "F",
+    "idade": 30,
+    "documento": "159-44-2314",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "389-52-6335",
+    "nome": "Caryn Waine",
+    "genero": "M",
+    "idade": null,
+    "documento": "308-12-9923",
+    "endereco": null,
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "649-83-2784",
+    "nome": "Lucais Hanwell",
+    "genero": "M",
+    "idade": 47,
+    "documento": "638-13-4276",
+    "endereco": "765 Union Parkway",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "474-82-1421",
+    "nome": "La verne Lewisham",
+    "genero": "F",
+    "idade": 58,
+    "documento": "636-25-4738",
+    "endereco": "082 Derek Park",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "416-21-6237",
+    "nome": null,
+    "genero": "F",
+    "idade": 33,
+    "documento": null,
+    "endereco": "38 Briar Crest Place",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "602-70-3504",
+    "nome": "Bronnie Niemetz",
+    "genero": "F",
+    "idade": 8,
+    "documento": "490-08-4488",
+    "endereco": "663 Park Meadow Drive",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "486-83-2356",
+    "nome": "Carlyn Cuningham",
+    "genero": "F",
+    "idade": 53,
+    "documento": null,
+    "endereco": null,
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "128-03-9689",
+    "nome": "Heath Amer",
+    "genero": "M",
+    "idade": 31,
+    "documento": "579-63-6026",
+    "endereco": null,
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "209-01-1918",
+    "nome": "Hamlin Mufford",
+    "genero": "F",
+    "idade": null,
+    "documento": "606-95-3517",
+    "endereco": "1570 Corscot Terrace",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "560-85-8242",
+    "nome": "Janka Augar",
+    "genero": "F",
+    "idade": null,
+    "documento": "755-61-2529",
+    "endereco": "2 Clove Drive",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "580-30-3993",
+    "nome": "Nicholas Valadez",
+    "genero": "F",
+    "idade": 75,
+    "documento": "259-97-1523",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "154-42-1920",
+    "nome": "Mac Kerrey",
+    "genero": "F",
+    "idade": 70,
+    "documento": null,
+    "endereco": "7 Mendota Road",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "310-92-2485",
+    "nome": "Emelina Crace",
+    "genero": "F",
+    "idade": 80,
+    "documento": "687-45-8405",
+    "endereco": "92 Roxbury Pass",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "748-11-3741",
+    "nome": "Chariot Lintott",
+    "genero": "M",
+    "idade": null,
+    "documento": "568-22-4364",
+    "endereco": null,
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "279-91-7952",
+    "nome": "Averil Gecks",
+    "genero": "F",
+    "idade": 12,
+    "documento": "140-33-5327",
+    "endereco": "7 Charing Cross Park",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "620-26-0959",
+    "nome": "Alina Heindrich",
+    "genero": "F",
+    "idade": 69,
+    "documento": "362-01-5034",
+    "endereco": "9120 Linden Park",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "281-40-1108",
+    "nome": "Nelle Ricardot",
+    "genero": "F",
+    "idade": null,
+    "documento": null,
+    "endereco": "477 Hoepker Way",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "674-29-8242",
+    "nome": "Bride Heeron",
+    "genero": "F",
+    "idade": 50,
+    "documento": null,
+    "endereco": "1745 Harper Alley",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "568-65-4626",
+    "nome": "Nissa Yair",
+    "genero": "M",
+    "idade": 74,
+    "documento": "781-26-3823",
+    "endereco": "6 Boyd Road",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "876-34-5563",
+    "nome": "Rollin Nuzzti",
+    "genero": "M",
+    "idade": 38,
+    "documento": "722-84-6293",
+    "endereco": "7 Merry Road",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "804-91-3742",
+    "nome": null,
+    "genero": "M",
+    "idade": 12,
+    "documento": null,
+    "endereco": null,
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "549-42-3605",
+    "nome": "Lonnie Detheridge",
+    "genero": "F",
+    "idade": 70,
+    "documento": "232-87-6807",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "498-05-7878",
+    "nome": null,
+    "genero": "F",
+    "idade": 48,
+    "documento": "124-97-4649",
+    "endereco": "5855 Corry Lane",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "162-49-5382",
+    "nome": "Tabina Mephan",
+    "genero": "M",
+    "idade": 43,
+    "documento": "734-61-2796",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "417-43-6481",
+    "nome": "Claudianus Marzele",
+    "genero": "F",
+    "idade": null,
+    "documento": "586-18-5364",
+    "endereco": null,
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "271-22-9491",
+    "nome": "Jacenta Worham",
+    "genero": "M",
+    "idade": 85,
+    "documento": "881-04-1334",
+    "endereco": "79 Ohio Hill",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "390-19-3788",
+    "nome": "Toby Frissell",
+    "genero": "M",
+    "idade": null,
+    "documento": null,
+    "endereco": "900 Comanche Way",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "140-12-3976",
+    "nome": "Ekaterina Crecy",
+    "genero": "M",
+    "idade": 14,
+    "documento": "254-15-5891",
+    "endereco": "922 Texas Street",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "749-93-2294",
+    "nome": "Pooh Ondricek",
+    "genero": "M",
+    "idade": 15,
+    "documento": "119-89-8944",
+    "endereco": "3601 Fairfield Terrace",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "108-32-0148",
+    "nome": "Andreas Hannabus",
+    "genero": "F",
+    "idade": 67,
+    "documento": null,
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "326-08-7446",
+    "nome": null,
+    "genero": "M",
+    "idade": 46,
+    "documento": "833-49-2086",
+    "endereco": "20 Drewry Street",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "408-08-4426",
+    "nome": "Anatola Kinnin",
+    "genero": "F",
+    "idade": 16,
+    "documento": "541-97-0321",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "625-75-9508",
+    "nome": "Taylor Fouldes",
+    "genero": "F",
+    "idade": null,
+    "documento": "156-93-9833",
+    "endereco": "3 Towne Park",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "726-14-1960",
+    "nome": "Myrna Lodwig",
+    "genero": "F",
+    "idade": 85,
+    "documento": "498-90-8226",
+    "endereco": null,
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "133-16-6112",
+    "nome": "Bonnee Sheircliffe",
+    "genero": "M",
+    "idade": 79,
+    "documento": "297-59-1482",
+    "endereco": null,
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "277-91-5608",
+    "nome": "Hildy Hadley",
+    "genero": "F",
+    "idade": 2,
+    "documento": "791-33-6006",
+    "endereco": "01 South Park",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "217-07-3468",
+    "nome": "Cleavland Pamment",
+    "genero": "F",
+    "idade": 1,
+    "documento": null,
+    "endereco": "67155 Summerview Circle",
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "387-02-7031",
+    "nome": "Bobbi Dobrowski",
+    "genero": "F",
+    "idade": 6,
+    "documento": "444-63-2122",
+    "endereco": null,
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "586-57-3693",
+    "nome": "Daloris Viegas",
+    "genero": "F",
+    "idade": null,
+    "documento": "633-19-5427",
+    "endereco": "03504 Northwestern Plaza",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "153-21-4388",
+    "nome": "Dennet Meredith",
+    "genero": "F",
+    "idade": 26,
+    "documento": "494-82-2689",
+    "endereco": "2797 Beilfuss Junction",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "335-45-2527",
+    "nome": "Matteo Roark",
+    "genero": "M",
+    "idade": 24,
+    "documento": null,
+    "endereco": "5 Hazelcrest Lane",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "504-49-0705",
+    "nome": null,
+    "genero": "M",
+    "idade": null,
+    "documento": "346-14-6447",
+    "endereco": null,
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "515-45-3854",
+    "nome": "Taylor Mateja",
+    "genero": "F",
+    "idade": 9,
+    "documento": "672-46-8550",
+    "endereco": null,
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "641-69-1298",
+    "nome": "Woodrow Crake",
+    "genero": "M",
+    "idade": 38,
+    "documento": "425-13-2375",
+    "endereco": "5358 Ryan Terrace",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "575-56-2293",
+    "nome": "Bondy Weeden",
+    "genero": "F",
+    "idade": 34,
+    "documento": "816-31-9023",
+    "endereco": null,
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "725-46-0262",
+    "nome": "Maddy Minico",
+    "genero": "M",
+    "idade": null,
+    "documento": null,
+    "endereco": "90 Crownhardt Place",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "285-18-4372",
+    "nome": "Kimberly Jelphs",
+    "genero": "F",
+    "idade": 5,
+    "documento": "817-68-3918",
+    "endereco": null,
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "265-10-7733",
+    "nome": "Lek Frusher",
+    "genero": "F",
+    "idade": 34,
+    "documento": "813-47-5382",
+    "endereco": "0 East Trail",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "889-75-9650",
+    "nome": "Dita Avard",
+    "genero": "F",
+    "idade": null,
+    "documento": "509-21-7865",
+    "endereco": "39247 Arizona Park",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "453-56-5913",
+    "nome": "Correna Bearn",
+    "genero": "F",
+    "idade": 19,
+    "documento": "458-64-4521",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "541-75-1776",
+    "nome": null,
+    "genero": "F",
+    "idade": 58,
+    "documento": "285-13-0803",
+    "endereco": "08 Mandrake Way",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "629-36-3144",
+    "nome": "Marcelo MacAllen",
+    "genero": "F",
+    "idade": 42,
+    "documento": "598-61-9623",
+    "endereco": "614 Michigan Avenue",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "507-44-2273",
+    "nome": null,
+    "genero": "M",
+    "idade": 31,
+    "documento": "264-88-6843",
+    "endereco": "973 Roth Junction",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "796-96-4628",
+    "nome": "Corette Iremonger",
+    "genero": "F",
+    "idade": null,
+    "documento": "469-92-4168",
+    "endereco": "1 Namekagon Parkway",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "345-44-2706",
+    "nome": "Nicky Elner",
+    "genero": "F",
+    "idade": 40,
+    "documento": null,
+    "endereco": "5690 Talmadge Road",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "435-73-6392",
+    "nome": "Rolland McGeffen",
+    "genero": "M",
+    "idade": 68,
+    "documento": null,
+    "endereco": "72 Mitchell Plaza",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "731-39-4575",
+    "nome": "Farrel Thunderman",
+    "genero": "M",
+    "idade": 69,
+    "documento": "535-68-7514",
+    "endereco": "1 Luster Avenue",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "169-31-4298",
+    "nome": "Alison McCalum",
+    "genero": "M",
+    "idade": 56,
+    "documento": "565-29-9117",
+    "endereco": "6 Basil Crossing",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "817-14-4230",
+    "nome": "Harold Risbrough",
+    "genero": "M",
+    "idade": 71,
+    "documento": "113-69-3113",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "739-91-9847",
+    "nome": "Ingamar Morrallee",
+    "genero": "M",
+    "idade": null,
+    "documento": "770-78-1726",
+    "endereco": "84 Hoepker Drive",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "140-39-6288",
+    "nome": "Rianon Steers",
+    "genero": "F",
+    "idade": 1,
+    "documento": "771-14-6341",
+    "endereco": "45000 Merchant Court",
+    "corEtnia": "Pardo(a)"
+  }, {
+    "nic": "668-13-4490",
+    "nome": "Henderson Sarfati",
+    "genero": "F",
+    "idade": null,
+    "documento": "461-93-8081",
+    "endereco": "5 Maple Wood Alley",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "170-80-8111",
+    "nome": "Joey Knobell",
+    "genero": "M",
+    "idade": 34,
+    "documento": "218-15-9953",
+    "endereco": null,
+    "corEtnia": "Preto(a)"
+  }, {
+    "nic": "288-35-5936",
+    "nome": null,
+    "genero": "M",
+    "idade": 32,
+    "documento": "204-38-8448",
+    "endereco": "0069 Cody Terrace",
+    "corEtnia": "Amarelo(a)"
+  }, {
+    "nic": "493-12-5435",
+    "nome": "Elianora De Bischof",
+    "genero": "M",
+    "idade": 56,
+    "documento": "549-07-5993",
+    "endereco": "0139 Crowley Park",
+    "corEtnia": "Branco(a)"
+  }, {
+    "nic": "674-29-3925",
+    "nome": "Monti Vasey",
+    "genero": "F",
+    "idade": 85,
+    "documento": "806-36-8050",
+    "endereco": "6 Rowland Trail",
+    "corEtnia": "Branco(a)"
+  }]
